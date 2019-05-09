@@ -19,7 +19,6 @@ void draw(){
     c.display();
     b.display();
     hasWon = c.update();
-    println(hasWon);
   }
 
 }
