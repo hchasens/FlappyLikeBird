@@ -1,5 +1,5 @@
 # Flappy Bird
-Warning, this is terable. Im not going to suger coat this, I was board but also on a time cruch because of finals. So what you have here is a terrible mess of bored programmer and time crunched programer.
+Warning, this is terable. Im not going to suger coat this, I was bored but also on a time cruch because of finals. So what you have here is a terrible mess of bored programmer and time crunched programer.
 
 #### Probably
 * not going to work on it again but feel free to save it
